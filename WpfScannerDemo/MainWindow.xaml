@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfScannerDemo.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:viewModels="clr-namespace:WpfScannerDemo.ViewModels"
+        Title="MainWindow" Height="466" Width="600">
+    <Window.DataContext>
+        <viewModels:ScanViewModel />
+    </Window.DataContext>
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="150" />
+        </Grid.ColumnDefinitions>
+
+        <Image x:Name="ScannerImage"
+               Stretch="Uniform"
+               Grid.Column="0" 
+               Source="{Binding ScannedImage}"
+               />
+
+        <Button x:Name="Scan"
+                Grid.Column="1"
+                Margin="10"
+                Height="25"
+                Width="75"
+                HorizontalAlignment="Right"
+                VerticalAlignment="Top"
+                Content="Scan"
+                Command="{Binding ScanCommand}" />
+    </Grid>
+</Window>

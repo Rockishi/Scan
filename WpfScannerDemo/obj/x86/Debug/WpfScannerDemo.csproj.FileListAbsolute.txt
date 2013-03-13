@@ -1,0 +1,36 @@
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\Interop.WIA.dll
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo.csproj.ResolveComReference.cache
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\App.g.cs
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo_MarkupCompile.cache
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo.g.resources
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo.Properties.Resources.resources
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\bin\Debug\WpfScannerDemo.exe
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\bin\Debug\WpfScannerDemo.pdb
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\bin\Debug\Interop.WIA.dll
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo.exe
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo.pdb
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Peter.Brown\Projects\Scratch\WpfScannerDemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo_MarkupCompile.lref
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\Interop.WIA.dll
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo.csproj.ResolveComReference.cache
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo.exe
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo.pdb
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\bin\Debug\WpfScannerDemo.exe
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\bin\Debug\WpfScannerDemo.pdb
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\bin\Debug\Interop.WIA.dll
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\App.g.cs
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo_MarkupCompile.cache
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo_MarkupCompile.lref
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\MainWindow.baml
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo.g.resources
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\WpfScannerDemo.Properties.Resources.resources
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Victor\Desktop\Nueva carpeta\petebrownwpfscannerdemo\WpfScannerDemo\obj\x86\Debug\GenerateResource.write.1.tlog
